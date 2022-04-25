@@ -1,4 +1,4 @@
-package aulas;
+package aulas.primeiroSemestre;
 
 import java.util.Scanner;
 
